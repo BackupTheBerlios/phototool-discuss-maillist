@@ -1,0 +1,37 @@
+From bryan at bulten.ca  Tue Jan  4 21:01:48 2005
+From: bryan at bulten.ca (Bryan Bulten)
+Date: Tue, 4 Jan 2005 12:01:48 -0800
+Subject: [Phototool-discuss] Test
+Message-ID: <20050104120148.13e6596f@localhost.localdomain>
+
+This is a test message.
+
+-- 
+Bryan Bulten
+http://www.bulten.ca/
+
+
+From bryan at bulten.ca  Sat Jan 29 04:57:16 2005
+From: bryan at bulten.ca (Bryan Bulten)
+Date: Fri, 28 Jan 2005 19:57:16 -0800
+Subject: [Phototool-discuss] ANN: New Icon Theme
+Message-ID: <20050128195716.5867a4f4@localhost.localdomain>
+
+Hello,
+
+A big thank-you to Nick Rusnov (http://nick.industrialmeats.com/) for
+contributing an awesome set of icons created with InkScape.
+
+I have no release schedule for version 0.1 yet.  Definitely by the end
+of May 2005, hopefully earlier.  My plan is to put up a release as soon
+as I feel the photo storage mechanism and database schema are stable.
+
+
+Cheers.
+
+
+-- 
+Bryan Bulten
+http://www.bulten.ca/
+
+
